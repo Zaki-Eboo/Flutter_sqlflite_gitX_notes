@@ -1,16 +1,2 @@
-# o
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Frame 1](https://github.com/Zaki-Eboo/Flutter_sqlflite_gitX_notes/assets/113374290/7d13f8a0-adf4-486c-a5e7-1a3792901472)
